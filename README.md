@@ -1,5 +1,4 @@
-# billy
+# reference for building a stunning github profile
 
-+ adakah
-+ belumkah
-+ sudahkah
+-  [reference#1](GitHub coderjojo/creative-profile-readme)
+-  [reference#2](GitHub abhisheknaiidu/awesome-github-profile-readme)
